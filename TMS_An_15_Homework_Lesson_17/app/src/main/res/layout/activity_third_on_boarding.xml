@@ -8,8 +8,8 @@
 
     <ImageView
         android:id="@+id/image"
-        android:layout_width="@dimen/view_wrap_content"
-        android:layout_height="@dimen/view_wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="@drawable/ic_launcher_background"
         android:foreground="@drawable/emblem_foreground"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -18,7 +18,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        style="@style/base_text_style"
+        style="@style/Text"
         android:text="@string/text_secondOnBoardingActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -26,7 +26,7 @@
         app:layout_constraintTop_toBottomOf="@+id/image" />
 
     <Button
-        style="@style/base_button_style"
+        style="@style/Button"
         android:text="@string/text_secondOnBoardingActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:ignore="MissingConstraints" />
