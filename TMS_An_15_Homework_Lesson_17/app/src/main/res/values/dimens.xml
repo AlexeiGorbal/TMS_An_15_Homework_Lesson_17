@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="firstOnBoardingActivity_width">150dp</dimen>
+    <dimen name="firstOnBoardingActivity_height">150dp</dimen>
+    <dimen name="secondOnBoardingActivity_width">160dp</dimen>
+    <item name="view_wrap_content" format="integer" type="dimen">-2</item>
+    <item name="view_match_parent" format="integer" type="dimen">-1</item>
+
+</resources>

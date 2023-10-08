@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="text_loginActivity">LoginActivity Fr</string>
+    <string name="text_firstOnBoardingActivity">FirstOnBoardingActivity Fr</string>
+    <string name="text_secondOnBoardingActivity">SecondOnBoardingActivity Fr</string>
+    <string name="text_thirdOnBoardingActivity">ThirdOnBoardingActivity Fr</string>
+    <string name="text_registrationActivity">RegistrationActivity Fr</string>
+    <string name="text_splashActivity">SplashActivity Fr</string>
+
+</resources>

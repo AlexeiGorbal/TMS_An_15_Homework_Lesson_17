@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="text_loginActivity">LoginActivity</string>
+    <string name="text_firstOnBoardingActivity">FirstOnBoardingActivity</string>
+    <string name="text_secondOnBoardingActivity">SecondOnBoardingActivity</string>
+    <string name="text_thirdOnBoardingActivity">ThirdOnBoardingActivity</string>
+    <string name="text_registrationActivity">RegistrationActivity</string>
+    <string name="text_splashActivity">SplashActivity</string>
+
+</resources>
